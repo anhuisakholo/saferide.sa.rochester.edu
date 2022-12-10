@@ -92,7 +92,7 @@
             "@type": "Organization",
             "name": "SLOTHK ~ Situs Pay4D Slot Hoki Terpercaya Gampang Menang",
             "alternateName": "Slothoki",
-            "url": "#",
+            "url": "http://saferide.sa.rochester.edu/",
             "logo": "https://i.ibb.co/F3Vr2v8/slothoki.png",
             "description": "SLOTHK merupakan situs judi PAY4D slot hoki terpercaya yang gampang menang dan judi togel resmi yang melayani deposit pulsa tanpa potongan.",
             "address": {
@@ -150,12 +150,12 @@
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "#"
+              "item": "pay4d"
             }, {
               "@type": "ListItem",
               "position": 2,
               "name": "PAY4D",
-              "item": "#"
+              "item": "pay4d"
             }, {
               "@type": "ListItem",
               "position": 3,
